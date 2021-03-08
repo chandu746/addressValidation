@@ -1,0 +1,11 @@
+
+{
+	
+"firstName" : "Tarun",
+"lastName" : "Doe",
+"emailAddress" : "john.doe@gmail.com",
+"street" : "525 S Winchester Blvd",
+"city" : "San Jose",
+"provinceState" : "CA",
+"country" : "US"
+}
